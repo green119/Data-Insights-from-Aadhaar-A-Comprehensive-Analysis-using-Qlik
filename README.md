@@ -2,6 +2,6 @@
 
 ## Project Description: It is the github repo for the project under smartinternz in business analysis using qlik.
 
-### DATASET LINK: https://drive.google.com/file/d/1o4cWIlMaCskQxXY0cJQTdjHmGVB00kZu/view?usp=drive_link
+### DATASET LINK: https://docs.google.com/spreadsheets/d/1tzsndCWcCJptztVQCjyO0Rp3y08rfwN8MAPVHk5SwYc/edit?usp=sharing
 
 Project Demonstration Link: 
